@@ -1,0 +1,10 @@
+[
+  {
+    "label": "ACL4SSR",
+    "value": "https://raw.githubusercontent.com/ACL4SSR/ACL4SSR/master/Clash/config/ACL4SSR_Online.ini"
+  },
+  {
+    "label": "ACL4SSR_Full",
+    "value": "https://raw.githubusercontent.com/ACL4SSR/ACL4SSR/master/Clash/config/ACL4SSR_Online_Full.ini"
+  }
+]
