@@ -1,0 +1,9 @@
+version: '3'
+
+services:
+  web:
+    image: subconverter-react
+    build:
+      context: .
+    ports:
+      - '80:80'
